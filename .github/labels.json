@@ -70,9 +70,9 @@
       "description":"Extra attention is needed"
    },
    {
-      "color: "BFD4F2",
-      "name": "type: release",
-      "description": "Marks a pull request that prepares for a new version."
+      "color":"BFD4F2",
+      "name":"type: release",
+      "description":"Marks a pull request that prepares for a new version."
    },
    {
       "color":"F25F44",
