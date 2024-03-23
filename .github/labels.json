@@ -70,6 +70,11 @@
       "description":"Extra attention is needed"
    },
    {
+      "color: "BFD4F2",
+      "name": "type: release",
+      "description": "Marks a pull request that prepares for a new version."
+   },
+   {
       "color":"F25F44",
       "name":"type: tests",
       "description":"Pertains to the addition or improvement of tests."
