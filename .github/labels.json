@@ -1,0 +1,77 @@
+[
+   {
+      "color":"b60205",
+      "name":"priority: critical",
+      "description":"Requires immediate action. Ignoring this could lead to significant problems."
+   },
+   {
+      "color":"d93f0b",
+      "name":"priority: high",
+      "description":"After critical issues are fixed, these should be dealt with before any further issues."
+   },
+   {
+      "color":"0e8a16",
+      "name":"priority: low",
+      "description":"This issue can probably be picked up by anyone looking to contribute to the project, as an entry fix"
+   },
+   {
+      "color":"fbca04",
+      "name":"priority: medium",
+      "description":"This issue may be useful, and needs some attention."
+   },
+   {
+      "color":"6572A4",
+      "name":"type: performance",
+      "description":"Related to enhancing system performance."
+   },
+   {
+      "color":"d66039",
+      "name":"status: accepted",
+      "description":"It's clear what the subject of the issue is about, and what the resolution should be."
+   },
+   {
+      "color":"ffcc9e",
+      "name":"status: blocked",
+      "description":"There is another issue that needs to be resolved first."
+   },
+   {
+      "color":"d73a4a",
+      "name":"type: bug",
+      "description":"Something isn't working"
+   },
+   {
+      "color":"0366d6",
+      "name":"type: dependencies",
+      "description":"Pull requests that update a dependency file"
+   },
+   {
+      "color":"2e0baa",
+      "name":"type: deprecated",
+      "description":"Marks features or elements for phased removal."
+   },
+   {
+      "color":"0075ca",
+      "name":"type: docs",
+      "description":"Improvements or additions to documentation"
+   },
+   {
+      "color":"cfd3d7",
+      "name":"type: duplicate",
+      "description":"This issue already exists"
+   },
+   {
+      "color":"a2eeef",
+      "name":"type: feature",
+      "description":"New feature or request"
+   },
+   {
+      "color":"008672",
+      "name":"type: help wanted",
+      "description":"Extra attention is needed"
+   },
+   {
+      "color":"F25F44",
+      "name":"type: tests",
+      "description":"Pertains to the addition or improvement of tests."
+   }
+]
